@@ -103,6 +103,16 @@
               Ko-fi Tip
             </NavigationLink>
           </li>
+          <li>
+            <NavigationLink
+              color="hover:text-lime-500"
+              id="shop"
+              to="https://shop.creepycrappy.show"
+              external="true"
+            >
+              CCShop
+            </NavigationLink>
+          </li>
         </ul>
       </div>
     </div>
